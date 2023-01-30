@@ -1,0 +1,5 @@
+@import "./common.css";
+@import "./reset.css"
+
+/* 避免main.js过多引入
+直接这里引入后然后再main.js引入这个文件 */
